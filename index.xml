@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on THE LAB</title>
+    <link>https://lab.n8d.studio/</link>
+    <description>Recent content in Home on THE LAB</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>N8D</copyright>
+    <lastBuildDate>Mon, 19 Dec 2022 09:21:13 +0100</lastBuildDate><atom:link href="https://lab.n8d.studio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Htwoo Core</title>
+      <link>https://lab.n8d.studio/experiments/htwoo/</link>
+      <pubDate>Sun, 01 Jan 2023 17:00:00 +0100</pubDate>
+      
+      <guid>https://lab.n8d.studio/experiments/htwoo/</guid>
+      <description>Microsoft&amp;rsquo;s Fluent Design Language with better performance, higher accessibility standards and developer experience.
+Built by the community for the community.
+hTWOo is purely based on HTML/CSS/JavaScript</description>
+    </item>
+    
+    <item>
+      <title>Htwoo React</title>
+      <link>https://lab.n8d.studio/experiments/htwoo-react/</link>
+      <pubDate>Sun, 01 Jan 2023 17:00:00 +0100</pubDate>
+      
+      <guid>https://lab.n8d.studio/experiments/htwoo-react/</guid>
+      <description>Based on hTWOo core we also created a react component library. This version of hTWOo allow you to create your applications for Microsoft SharePoint, Teams and standalone applications even.</description>
+    </item>
+    
+    <item>
+      <title>hTWOo Icons</title>
+      <link>https://lab.n8d.studio/experiments/htwoo-icons/</link>
+      <pubDate>Sun, 01 Jan 2023 15:00:00 +0100</pubDate>
+      
+      <guid>https://lab.n8d.studio/experiments/htwoo-icons/</guid>
+      <description>Looking for all Microsoft Fluent Design icons? You can download all from one single source in hTWOo.
+hTWOo Icons also offer the possibility to add your custom icon sets. Right for your application in no time.</description>
+    </item>
+    
+    <item>
+      <title>Test</title>
+      <link>https://lab.n8d.studio/test/</link>
+      <pubDate>Sun, 01 Jan 2023 14:19:09 +0100</pubDate>
+      
+      <guid>https://lab.n8d.studio/test/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PnP Weekly 2022 - ep. 159</title>
+      <link>https://lab.n8d.studio/media/pnp-weekly-2022-htwoo/</link>
+      <pubDate>Tue, 29 Mar 2022 10:06:06 +0100</pubDate>
+      
+      <guid>https://lab.n8d.studio/media/pnp-weekly-2022-htwoo/</guid>
+      <description>In their PnP Weekly Podcast, Stefan Bauer was talking about hTWOo and important news around web development.</description>
+    </item>
+    
+    <item>
+      <title>HTWOO React - Getting Started</title>
+      <link>https://lab.n8d.studio/media/htwoo-react-getting-started/</link>
+      <pubDate>Thu, 02 Dec 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://lab.n8d.studio/media/htwoo-react-getting-started/</guid>
+      <description>Julie Turner educates viewers about the new open-source HtwoO React library she created containing many atomic components built by Stefan Bauer</description>
+    </item>
+    
+    <item>
+      <title>HTWOO Core - getting started</title>
+      <link>https://lab.n8d.studio/media/htwoo-core-getting-started/</link>
+      <pubDate>Thu, 27 May 2021 10:44:33 +0100</pubDate>
+      
+      <guid>https://lab.n8d.studio/media/htwoo-core-getting-started/</guid>
+      <description>Check out the how to getting started video presented during a Microsoft 365 community call.</description>
+    </item>
+    
+    <item>
+      <title>Cloud Show Fluent Design HTWOO</title>
+      <link>https://lab.n8d.studio/media/cloud-show-fluent-design-htwoo/</link>
+      <pubDate>Thu, 29 Apr 2021 20:53:12 +0100</pubDate>
+      
+      <guid>https://lab.n8d.studio/media/cloud-show-fluent-design-htwoo/</guid>
+      <description>In this 407th episode, Andrew Connell chats with Stefan Bauer around his new hTWOo project, a 100% pure HTML &amp;amp; CSS implementation of Microsoft’s Fluent Design System.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://lab.n8d.studio/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lab.n8d.studio/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data protection in the context of this website</title>
+      <link>https://lab.n8d.studio/data-protection/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lab.n8d.studio/data-protection/</guid>
+      <description>Cookies We ate them but all up but don&amp;rsquo;t need one.
+Google Analytics We want to improve our offer therefor this web page uses Google Analytics, a web analysis service of Google Inc, 1600 Amphitheatre Parkway Mountain View, CA 94043, USA (‘Google’) on the legal basis of the­­­­­­­­­­­­­­­­ ­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­predominant able interest (analysis of website use).
+When using our website a connection is made via software to the servers of Google and data is transferred to Google servers, some of which are in the USA.</description>
+    </item>
+    
+    <item>
+      <title>Media Owner and Publisher</title>
+      <link>https://lab.n8d.studio/imprint/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lab.n8d.studio/imprint/</guid>
+      <description>N8D e.U.
+Ziedlergasse 10/32
+1230 Vienna
+www: n8d.at
+LinkedIn: StfBauer
+&amp;hellip; also Design, Concept and Implementation </description>
+    </item>
+    
+    <item>
+      <title>Moses</title>
+      <link>https://lab.n8d.studio/moses/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lab.n8d.studio/moses/</guid>
+      <description>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Impedit, nesciunt.</description>
+    </item>
+    
+  </channel>
+</rss>

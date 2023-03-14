@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on THE LAB</title>
+    <link>https://lab.n8d.studio/categories/</link>
+    <description>Recent content in Categories on THE LAB</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>N8D</copyright><atom:link href="https://lab.n8d.studio/categories/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

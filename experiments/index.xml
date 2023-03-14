@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Experiments on THE LAB</title>
+    <link>https://lab.n8d.studio/experiments/</link>
+    <description>Recent content in Experiments on THE LAB</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>N8D</copyright>
+    <lastBuildDate>Sun, 01 Jan 2023 17:00:00 +0100</lastBuildDate><atom:link href="https://lab.n8d.studio/experiments/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Htwoo Core</title>
+      <link>https://lab.n8d.studio/experiments/htwoo/</link>
+      <pubDate>Sun, 01 Jan 2023 17:00:00 +0100</pubDate>
+      
+      <guid>https://lab.n8d.studio/experiments/htwoo/</guid>
+      <description>Microsoft&amp;rsquo;s Fluent Design Language with better performance, higher accessibility standards and developer experience.
+Built by the community for the community.
+hTWOo is purely based on HTML/CSS/JavaScript</description>
+    </item>
+    
+    <item>
+      <title>Htwoo React</title>
+      <link>https://lab.n8d.studio/experiments/htwoo-react/</link>
+      <pubDate>Sun, 01 Jan 2023 17:00:00 +0100</pubDate>
+      
+      <guid>https://lab.n8d.studio/experiments/htwoo-react/</guid>
+      <description>Based on hTWOo core we also created a react component library. This version of hTWOo allow you to create your applications for Microsoft SharePoint, Teams and standalone applications even.</description>
+    </item>
+    
+    <item>
+      <title>hTWOo Icons</title>
+      <link>https://lab.n8d.studio/experiments/htwoo-icons/</link>
+      <pubDate>Sun, 01 Jan 2023 15:00:00 +0100</pubDate>
+      
+      <guid>https://lab.n8d.studio/experiments/htwoo-icons/</guid>
+      <description>Looking for all Microsoft Fluent Design icons? You can download all from one single source in hTWOo.
+hTWOo Icons also offer the possibility to add your custom icon sets. Right for your application in no time.</description>
+    </item>
+    
+  </channel>
+</rss>
